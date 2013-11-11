@@ -5,6 +5,6 @@ This is my presentation for a scheduled interview for the [Stardust ER-2 researc
 
 The talk makes use of [reveal.js](http://lab.hakim.se/reveal-js/): a framework for easily creating beautiful presentations using HTML.
 
-The talk itself can be viewed [here](stardust.kartikkumar.com).
+The talk itself can be viewed [here](http://stardust.kartikkumar.com).
 
 Any questions regarding this talk or my use of reveal.js can be directed to [me](mailto:me@kartikkumar.com?subject=Question about Stardust ER-2 talk).
