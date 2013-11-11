@@ -7,4 +7,4 @@ The talk makes use of [reveal.js](http://lab.hakim.se/reveal-js/): a framework f
 
 The talk itself can be viewed [here](stardust.kartikkumar.com).
 
-Any questions regarding this talk or my use of reveal.js can be directed to (me)[mailto:me@kartikkumar.com?subject=Question about Stardust ER-2 talk).
+Any questions regarding this talk or my use of reveal.js can be directed to [me](mailto:me@kartikkumar.com?subject=Question about Stardust ER-2 talk).
